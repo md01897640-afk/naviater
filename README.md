@@ -1,4 +1,4 @@
 # naviater
 this is my first repository
 <br>
-author:abdullah
+author:abdullah worker
